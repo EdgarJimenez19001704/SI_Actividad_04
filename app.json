@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SecureMemo",
-    "slug": "SecureMemo",
+    "name": "Notas",
+    "slug": "notas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
