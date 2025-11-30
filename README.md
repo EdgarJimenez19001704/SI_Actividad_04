@@ -35,8 +35,8 @@ git clone <URL_DEL_REPOSITORIO>
 Asegúrate de tener todas las librerías necesarias:
 
 npm install
-# O, si usas Yarn:
-# yarn install
+O, si usas Yarn:
+yarn install
 
 
 3. Iniciar el Servidor de Desarrollo
